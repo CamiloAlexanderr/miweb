@@ -87,6 +87,12 @@ header {
 }
 /*-- header --*/
 
+.centrado{
+	display:block;
+	margin-left: auto;
+	margin-right: auto;
+  }
+
 .toggle,
 [id^=drop] {
 	display: none;
@@ -103,7 +109,8 @@ nav {
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
-    width: 50px;
+	width: 170px;
+
 }
 
 #logo a {
@@ -479,7 +486,7 @@ h4.b-w3ltxt {
 /*-- banner bottom --*/
 /* girds */
 .three-grids-w3pvt-1 {
-    background: url(../images/bb.jpg) no-repeat center;
+    background: url(../images/bb1.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -503,7 +510,7 @@ h4.b-w3ltxt {
 }
 
 .three-grids-w3pvt-2 {
-    background: url(../images/bg1.jpg) no-repeat center;
+    background: url(../images/bg11.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -515,7 +522,7 @@ h4.b-w3ltxt {
 }
 
 .three-grids-w3pvt-3 {
-    background: url(../images/bg2.jpg) no-repeat center;
+    background: url(../images/bg22.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -526,7 +533,7 @@ h4.b-w3ltxt {
     z-index: 1;
 }
 .three-grids-w3pvt-4 {
-    background: url(../images/bg3.jpg) no-repeat center;
+    background: url(../images/bg33.jpg) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
